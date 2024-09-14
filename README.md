@@ -81,8 +81,9 @@ slave;
 
 Решение 2
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/ahmrust/replication-and-scaling.part1/blob/main/img/1.png)
+![alt text](https://github.com/ahmrust/replication-and-scaling.part1/blob/main/img/2.png)
+![alt text](https://github.com/ahmrust/replication-and-scaling.part1/blob/main/img/3.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
